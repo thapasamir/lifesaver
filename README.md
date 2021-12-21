@@ -1,5 +1,5 @@
 # lifesaver
 
-<h1>Increasing your keyboard scrolling speed </h1>
-==> xset r rate 300 50
+<h2>Increasing your keyboard scrolling speed </h2>
+==> <bold> xset r rate 300 50 </bold>
   
